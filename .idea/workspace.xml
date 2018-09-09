@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88708885-abe5-4416-a197-de8fc151bedc" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-203826716">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="31" />
+          <entry key="html" value="9" />
+          <entry key="jpg" value="5" />
+          <entry key="js" value="9" />
+          <entry key="rnc" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="31" />
+          <entry key="HTML" value="9" />
+          <entry key="Image" value="5" />
+          <entry key="JavaScript" value="9" />
+          <entry key="RNG Compact" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="10739" />
+          <entry key="html" value="4580" />
+          <entry key="js" value="467" />
+          <entry key="txt" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="10739" />
+          <entry key="HTML" value="4580" />
+          <entry key="JavaScript" value="467" />
+          <entry key="PLAIN_TEXT" value="12" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-235241711">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Downloads/lesson-08-code/index.html" />
+        <option value="$PROJECT_DIR$/css/fonts.css" />
+        <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="929" />
+    <option name="height" value="709" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Landing_page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Landing_page" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="text-center&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.last.introduce.type" value="VAR" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88708885-abe5-4416-a197-de8fc151bedc" name="Default Changelist" comment="" />
+      <created>1532794244286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532794244286</updated>
+      <workItem from="1532794245590" duration="22902000" />
+      <workItem from="1533051874682" duration="9583000" />
+      <workItem from="1533151318022" duration="53895000" />
+      <workItem from="1533764211106" duration="58942000" />
+      <workItem from="1534440694710" duration="1056000" />
+      <workItem from="1534446104101" duration="8921000" />
+      <workItem from="1534594724777" duration="15000" />
+      <workItem from="1534594757426" duration="11464000" />
+      <workItem from="1534694757945" duration="5595000" />
+      <workItem from="1534864933287" duration="9241000" />
+      <workItem from="1535043554464" duration="519000" />
+      <workItem from="1536496871692" duration="248000" />
+    </task>
+    <task id="LOCAL-00039" summary="Landing">
+      <created>1533837791428</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1533837791428</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Landing">
+      <created>1533837846390</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1533837846390</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Landing">
+      <created>1533838034359</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1533838034359</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Landing">
+      <created>1533844483422</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1533844483422</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Landing">
+      <created>1533915320545</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1533915320545</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Landing">
+      <created>1533916509645</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1533916509645</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Landing">
+      <created>1534017166169</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1534017166169</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Landing">
+      <created>1534019333525</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1534019333525</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Landing">
+      <created>1534020124436</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1534020124436</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Landing">
+      <created>1534020219055</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1534020219055</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Landing">
+      <created>1534024680875</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1534024680875</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Landing">
+      <created>1534028986965</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1534028986968</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Landing">
+      <created>1534029128402</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1534029128402</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Landing">
+      <created>1534077773835</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1534077773835</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Landing">
+      <created>1534080354595</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1534080354595</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Landing">
+      <created>1534181971545</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1534181971545</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Landing">
+      <created>1534184702554</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1534184702555</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Landing">
+      <created>1534186294929</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1534186294929</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Landing">
+      <created>1534261605413</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1534261605413</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Landing">
+      <created>1534262812904</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1534262812904</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Landing">
+      <created>1534266395987</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1534266395988</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Landing">
+      <created>1534268500456</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1534268500456</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Landing">
+      <created>1534362326403</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1534362326403</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Landing">
+      <created>1534364461269</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1534364461269</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Landing">
+      <created>1534366483769</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1534366483769</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Landing">
+      <created>1534439134541</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1534439134541</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Landing">
+      <created>1534439144887</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1534439144887</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Landing">
+      <created>1534440561617</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1534440561617</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Landing">
+      <created>1534445439703</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1534445439703</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Landing">
+      <created>1534520421361</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1534520421361</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Landing">
+      <created>1534520608078</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1534520608078</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Landing">
+      <created>1534525193948</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1534525193948</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Landing">
+      <created>1534527708794</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1534527708794</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Landing">
+      <created>1534599901743</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1534599901744</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Landing">
+      <created>1534602138195</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1534602138195</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Landing">
+      <created>1534607491216</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1534607491216</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Landing">
+      <created>1534699253045</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1534699253060</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Landing done">
+      <created>1534701416604</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1534701416605</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Landing done">
+      <created>1534865925855</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1534865925855</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Landing done">
+      <created>1534867299160</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1534867299160</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Landing done">
+      <created>1534868541486</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1534868541486</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Landing done">
+      <created>1534868604631</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1534868604631</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Landing done">
+      <created>1534868924313</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1534868924313</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Landing done">
+      <created>1534869893887</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1534869893887</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Landing done">
+      <created>1534871007476</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1534871007476</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Landing done">
+      <created>1534874010835</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1534874010835</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Landing done">
+      <created>1534874709734</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1534874709735</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Landing done">
+      <created>1535043626111</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1535043626111</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Landing done">
+      <created>1535043723804</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1535043723804</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="182381000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="929" height="709" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24559471" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32996634" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32996634" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33670035" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Landing" />
+    <MESSAGE value="Landing done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Landing done" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Downloads/lesson-08-code/index.html" />
+    <entry file="file://$USER_HOME$/Landing/lesson-08-code/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/img/bgc-intro.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2732" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/fonts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/et-line.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/sectional.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="11847" selection-start-line="3" selection-start-column="11847" selection-end-line="3" selection-end-column="11847" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/lesson-12-code/css/style.css" />
+    <entry file="file://$USER_HOME$/Downloads/lesson-12-code/index.html" />
+    <entry file="file://$PROJECT_DIR$/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/lesson-13-code/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/lesson-13-code/css/style.css" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/aria.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="397" column="18" selection-start-line="397" selection-start-column="18" selection-end-line="397" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/lesson-14-code/css/style.css" />
+    <entry file="file://$USER_HOME$/Downloads/lesson-14-code/index.html" />
+    <entry file="file:///Applications/Utilities/Adobe Creative Cloud/AppsPanel/resource/ui/resources/js/view/v1/apps-view.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="971" column="31" selection-start-line="971" selection-start-column="31" selection-end-line="971" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8201">
+          <caret line="706" column="6" lean-forward="true" selection-start-line="706" selection-start-column="6" selection-end-line="706" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
